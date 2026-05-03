@@ -45,6 +45,23 @@ const tutors = [
         blendMode: 'normal'
     },
     { 
+<<<<<<< HEAD
+=======
+        name: 'Shruti Grover', 
+        rating: '4.9',
+        ratingCount: '1540',
+        experience: '6',
+        subjects: 'Full Stack Development, Java, Spring Boot, React',
+        location: 'India',
+        flag: '🇮🇳',
+        desc: 'Senior Full Stack Engineer and mentor. Expert in building enterprise-grade applications and guiding students through the complexities of modern web development...',
+        img: '/images/shruti.jpg',
+        bgColor: '#e84393',
+        bgPosition: 'center 15%',
+        blendMode: 'normal'
+    },
+    { 
+>>>>>>> 0b86a78 (Updated project)
         name: 'Fella Rahmah Putri', 
         rating: '5.0',
         ratingCount: '748',
